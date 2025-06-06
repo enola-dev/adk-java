@@ -22,7 +22,7 @@
     <artifactId>google-adk-langchain4j</artifactId>
     <version>0.1.1-SNAPSHOT</version><!-- {x-version-update:google-adk:current} -->
     <packaging>jar</packaging>
-    <name>Agent Development Kit - Contributions</name>
+    <name>Agent Development Kit - LangChain4j Integration</name>
     <url>https://github.com/google/adk-java</url>
     <licenses>
         <license>
