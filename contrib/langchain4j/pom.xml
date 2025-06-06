@@ -19,8 +19,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.google.adk</groupId>
-    <artifactId>google-adk-contrib</artifactId>
-    <version>0.1.0</version><!-- {x-version-update:google-adk:current} -->
+    <artifactId>google-adk-langchain4j</artifactId>
+    <version>0.1.1-SNAPSHOT</version><!-- {x-version-update:google-adk:current} -->
     <packaging>jar</packaging>
     <name>Agent Development Kit - Contributions</name>
     <url>https://github.com/google/adk-java</url>
